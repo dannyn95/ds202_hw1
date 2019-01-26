@@ -1,0 +1,11 @@
+---
+title: "Partner"
+author: "Connor Hergenreter"
+date: "January 24, 2019"
+output: html_document
+---
+
+# Danny Nguyen
+# dannyn95
+# commit id = 0607eac7d5424ec5ee769b74a73d78bdabe81465
+# 22 lines involving the description of data science and version info
